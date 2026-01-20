@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "853213014295",
+    "project_id": "saim-23c10",
+    "storage_bucket": "saim-23c10.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853213014295:android:2da20832ead27de4d76f52",
+        "android_client_info": {
+          "package_name": "com.example.seismoarch_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "edited due to security reasons"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853213014295:android:66d20c84f5d66557d76f52",
+        "android_client_info": {
+          "package_name": "com.seismoarch.alert"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_7s_P6-OidbJHL7amIHK4uWbMVdHgYgA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
