@@ -1,8 +1,5 @@
 # SAIM — SeismoArch Intelligence Model  
 ### Earthquake Early Warning & Structural Monitoring System
-
-**Developed during Arctic League of Code (Winter 2025–26)**
-
 ---
 
 ## Overview
