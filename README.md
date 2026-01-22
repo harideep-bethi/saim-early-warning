@@ -1,10 +1,10 @@
-# SAIM — SeismoArch Intelligence Model  
+# SAIM — SeismoArch Iot Model  
 ### Earthquake Early Warning & Structural Monitoring System
 ---
 
 ## Overview
 
-SAIM (SeismoArch Intelligence Model) is a low-cost, building-level earthquake early-warning system designed to detect **primary seismic waves (P-waves)** and issue alerts **seconds before destructive shaking occurs**.
+SAIM (SeismoArch Iot Model) is a low-cost, building-level earthquake early-warning system designed to detect **primary seismic waves (P-waves)** and issue alerts **seconds before destructive shaking occurs**.
 
 By leveraging multi-point vibration sensing, real-time signal processing, and mobile notifications, SAIM aims to reduce human response time during earthquakes and improve structural safety awareness.
 
@@ -59,15 +59,6 @@ This architecture prioritizes speed, reliability, and cost efficiency.
 - Firebase Cloud Messaging (FCM)  
 - Flutter  
 - Data visualization dashboards  
-
----
-
-## Project Status
-
-This repository represents the **Arctic League of Code implementation** of SAIM.  
-The system is functional and serves as a foundation for future research and development.
-
----
 
 ## Future Work
 
