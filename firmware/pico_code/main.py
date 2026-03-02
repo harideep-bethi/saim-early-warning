@@ -1,7 +1,6 @@
 # ============================================================
 # 🌍 EARTHQUAKE DETECTION USING MPU6050 + RASPBERRY PI PICO
 # ============================================================
-
 import sys
 import machine
 from machine import Pin, I2C, PWM
