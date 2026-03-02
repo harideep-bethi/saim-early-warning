@@ -8,6 +8,7 @@ SAIM (SeismoArch Iot Model) is a low-cost, building-level earthquake early-warni
 
 By leveraging multi-point vibration sensing, real-time signal processing, and mobile notifications, SAIM aims to reduce human response time during earthquakes and improve structural safety awareness.
 
+
 ---
 
 ## Problem Statement
